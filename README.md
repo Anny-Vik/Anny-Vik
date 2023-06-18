@@ -34,9 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-###
 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/l2Sq72gPlwox4o2n6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telenet-internautday-l2Sq72gPlwox4o2n6"></a></p>" />
 
 ###
 
@@ -54,4 +52,4 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anny-Vik&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anny-Vik&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
